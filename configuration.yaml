@@ -127,7 +127,7 @@ actors:
     seed: 42
     enable_thinking: false
     multimodal: true
-    ensemble_size: 48
+    ensemble_size: 50
     ensemble_temperature: 0.8
     providers:
       order: []
